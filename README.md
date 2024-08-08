@@ -3,7 +3,7 @@ Here, a comprehensive visualisation of the electric vehicle (EV) dataset has bee
 The dataset used for this visualisation is [Electric Vehicle Dataset 2024](https://www.kaggle.com/datasets/vanillatyy1/electric-vehicle-dataset?select=cars_data_cleaned.csv), downloaded from Kaggle.
 
 ## Objective
-The purpose of this visualisation was to select some of the important EV parameters from the dataset and try to answer the questions below:
+To select some of the important EV parameters from the dataset and try to answer the questions below:
 
 ### Questions
 1. Are there any brands with a long travel range and low price per km?
